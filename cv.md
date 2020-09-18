@@ -11,7 +11,7 @@
 | Phone number | +375(29)5450670 |
 
 **Summary**
->I am interested in Front-end application development. 
+>I am interested in Front-end application development . 
 I want to improve my skills, learn more about software 
 development, become a part community of developers and
 participate in various projects.
